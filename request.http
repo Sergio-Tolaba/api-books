@@ -1,0 +1,14 @@
+GET http://localhost:3000/books
+
+###
+GET http://localhost:3000/books/3
+
+###
+POST http://localhost:3000/books 
+Content-Type: application/json
+
+{
+  "title": "New Book Title",
+  "author": "New Author Name",
+  "year": 2023
+}

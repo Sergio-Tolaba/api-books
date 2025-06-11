@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960
+    },
+    {
+      "id": 2,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year": 1813
+    },
+    {
+      "id": 3,
+      "title": "New Book Title",
+      "author": "New Author Name",
+      "year": 2023
+    }
+  ]
+}
